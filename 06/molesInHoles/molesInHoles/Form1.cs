@@ -16,7 +16,7 @@ namespace molesInHoles {
 		}
 
 		protected override void OnPaint(PaintEventArgs e) {
-			graphics = CreateGraphics();
+			graphics = e.Graphics;
 			graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
 
 			// норы!
