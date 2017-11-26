@@ -13,7 +13,7 @@ namespace MemoryTrainer {
 
 		static void GuessNumber() {
 			Random rand = new Random();
-
+            int max = 100;  
 			while (true) {
 				int number = rand.Next(100);
 
