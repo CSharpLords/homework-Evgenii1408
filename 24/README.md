@@ -1,0 +1,2 @@
+1. Зарегистрироваться [на ulearn](https://ulearn.me/)
+2. Пройти весь раздел [Первое знакомство с C#](https://ulearn.me/Course/BasicProgramming/Kratkaya_spravka_pered_nachalom_69a2e121-e58f-4cd0-8221-7affb7dc796e#N0)
